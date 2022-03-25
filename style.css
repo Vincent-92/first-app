@@ -1,3 +1,11 @@
 body{
     background-color: gray;
 }
+
+button{
+    padding: 10px;
+    color: white;
+    background-color: palevioletred;
+    border: none;
+    border-radius: 5px;
+}
